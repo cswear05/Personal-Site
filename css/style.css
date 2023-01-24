@@ -1,0 +1,146 @@
+/*              TAG MODIFICATIONS       */
+a:link{
+    color: #1d3557;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #112B3C;
+}
+
+a:hover{
+    color: #B1D0E0;
+}
+
+a{
+    font-family: 'Montserrat', cursive;
+    margin: 0.625rem 1.25rem;
+}
+
+body {
+    color: #40514E;
+    background-color: #EFEFEF;
+    margin: 0em;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.btn {
+    -webkit-border-radius: 0.625rem;
+    -moz-border-radius: 0.625rem;
+    border-radius: 0.625rem;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 1.25rem;
+    background: #457b9d;
+    padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #112B3C;
+    text-decoration: none;
+  }
+
+h1 {
+    color: #457b9d;
+    font-size: 5.625rem;
+    margin: 3.125rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #457b9d;
+    font-family: 'Montserrat', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 0.625rem;
+}
+
+h3 {
+    color: #00b4d8;
+    font-family: 'Montserrat', cursive;
+}
+
+hr {
+    border: dotted grey 6PX;
+    border-bottom: none;
+    width: 4%;
+    margin: 6.25rem auto; 
+}
+
+p {
+    color: #1d3557;
+    line-height: 2;
+}
+
+/*              CLASS MODIFICATIONS         */
+
+.top-container{
+    background-color: #B1D0E0;
+    position: relative;
+    padding-top: 10rem;
+}
+
+.middle-container {
+    position: relative;
+    padding: 5%;
+}
+
+.bottom-container{
+    background-color: #457b9d;
+    position: relative;
+    padding: 3.125rem 0 1.25rem;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 18.75rem;
+    top: 2.5rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 15.625rem;
+    bottom: 18.75em;
+}
+
+.mountain {
+    position: relative;
+}
+
+.profile-message {
+    width: 40%;
+    margin: 0.625rem auto 1.25rem;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+}
+
+.development-img {
+    width: 25%;
+    float: left;
+    margin-right: 1.875rem;
+}
+
+.pottery-img{
+    width: 25%;
+    float: right;
+    margin-left: 1.875rem;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 2.5rem auto 3.75rem;
+}
+
+.copyright {
+    color: #B1D0E0;
+    font-size: 0.75rem;
+    padding: 1.25rem 0;
+}
+
+
